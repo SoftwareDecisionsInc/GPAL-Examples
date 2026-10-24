@@ -1,0 +1,207 @@
+[
+  {
+    "absoluteLeft": 1778.484375,
+    "absoluteTop": 57.984375,
+    "boundingRect": {
+      "bottom": 81.984375,
+      "height": 24,
+      "left": 1778.484375,
+      "right": 1842.3125,
+      "top": 57.984375,
+      "width": 63.828125,
+      "x": 1778.484375,
+      "y": 57.984375
+    },
+    "clientRects": {
+      "0": {
+        "bottom": 81.984375,
+        "height": 24,
+        "left": 1778.484375,
+        "right": 1842.3125,
+        "top": 57.984375,
+        "width": 63.828125,
+        "x": 1778.484375,
+        "y": 57.984375
+      }
+    },
+    "css": "#app-agent > div > div.content-wrapper > div.content-header > div > div > div:nth-of-type(2) > ol > li.breadcrumb-item > a",
+    "fullXPath": "/html/body/div[1]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a",
+    "height": 24,
+    "href": "https://helpdesk.sditx.com/panel/",
+    "imageData": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAYAD8DASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBAIDBQn/xAAqEAABBAEEAgEDBAMAAAAAAAABAgMEBREABhIhEzFRFGFxFSJBchYzgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAERIDIVHwBBMxQaHR/9oADAMBAAIRAxEAPwD05DiFKKQpJUOiAfWssH4OkvPqKhio3LcKjR2btu3WmJOQlKZHPknihKwORzk9a7Ezd9qjcde5GmS3Iap6IMltbEdMQKKf3BJ/3FYP8546v9AtWMiOvQJI++DUZcmUzCYW/IebYZQMqcdUEpT+SfWofmx4sYyX32mY4AJecWEowfRyetKbc9xbIgX8G4nSg9JZcVDbDbCoa0JUO0KQPJyA9hZ/Gtd7OtYtNeUsu0csG/0tiW048yhBZJWlJSOATlP9iT9zoGgSLuNtajVd2/Y4kkKSFJ7Sf5Gp0pbPdV5tuc9VJtzPS6xHWmdJYaH0ZcXxPSEpBTjsBQP3J1df3RY1UizpH7mXOfbeZaizI0eP9StTgJ8RBAa5DHspAA950Hx22IIgNdTdg9Fxm+/Xf41Xm2EWtZ80uS1Fazx5vLCBn4ydK6n3VuK5bqYBs3Yry7GTDekrYZU8pDaQR6BbC+/YGPtribzsLC92k7YS7pSmm7ExU1xaaCEhAUMqPHlzPs9476A1pPGLOFJ2MTa4Ck13oMbrW0KJm3Vaopa9uzUeSpqIqA8T888Z1P8AiVIbRVkaeAbBRClS/pkeUq+eeM5++dGjUhZuZ3wX2qYMbMoIr8l5mjrmnZIw+4iKgF0ZzhRxlQz3g6tP0VbKDvnr4r3lbDLnkZSrmgekHI7SPg6NGtFifmPETRD2jR10KTDi08CPEknLzDUZAbd/snGD/wB1rTsrb6ao1go64VqlczEEZHiKvkpxgnRo0ZNzDFeJaibeq4CGkxq2JHSyoqbDTCE8CeiU4HRI1We2bQSbByc9SVzs1w/vkrioU4v8kjJ0aNLJru4iilaqf//Z",
+    "left": 1778.484375,
+    "pageURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "parentURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "selectorName": "aSelector0",
+    "tagName": "A",
+    "text": "Dashboard",
+    "textTruncated": false,
+    "top": 57.984375,
+    "width": 64,
+    "xPath": "//*[@id=\"app-agent\"]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a"
+  },
+  {
+    "absoluteLeft": 1778.484375,
+    "absoluteTop": 57.984375,
+    "boundingRect": {
+      "bottom": 81.984375,
+      "height": 24,
+      "left": 1778.484375,
+      "right": 1842.3125,
+      "top": 57.984375,
+      "width": 63.828125,
+      "x": 1778.484375,
+      "y": 57.984375
+    },
+    "clientRects": {
+      "0": {
+        "bottom": 81.984375,
+        "height": 24,
+        "left": 1778.484375,
+        "right": 1842.3125,
+        "top": 57.984375,
+        "width": 63.828125,
+        "x": 1778.484375,
+        "y": 57.984375
+      }
+    },
+    "css": "#app-agent > div > div.content-wrapper > div.content-header > div > div > div:nth-of-type(2) > ol > li.breadcrumb-item > a",
+    "fullXPath": "/html/body/div[1]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a",
+    "height": 24,
+    "href": "https://helpdesk.sditx.com/panel/",
+    "imageData": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAYAD8DASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBAIDBQn/xAAqEAABBAEEAgEDBAMAAAAAAAABAgMEBREABhIhEzFRFGFxFSJBchYzgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAERIDIVHwBBMxQaHR/9oADAMBAAIRAxEAPwD05DiFKKQpJUOiAfWssH4OkvPqKhio3LcKjR2btu3WmJOQlKZHPknihKwORzk9a7Ezd9qjcde5GmS3Iap6IMltbEdMQKKf3BJ/3FYP8546v9AtWMiOvQJI++DUZcmUzCYW/IebYZQMqcdUEpT+SfWofmx4sYyX32mY4AJecWEowfRyetKbc9xbIgX8G4nSg9JZcVDbDbCoa0JUO0KQPJyA9hZ/Gtd7OtYtNeUsu0csG/0tiW048yhBZJWlJSOATlP9iT9zoGgSLuNtajVd2/Y4kkKSFJ7Sf5Gp0pbPdV5tuc9VJtzPS6xHWmdJYaH0ZcXxPSEpBTjsBQP3J1df3RY1UizpH7mXOfbeZaizI0eP9StTgJ8RBAa5DHspAA950Hx22IIgNdTdg9Fxm+/Xf41Xm2EWtZ80uS1Fazx5vLCBn4ydK6n3VuK5bqYBs3Yry7GTDekrYZU8pDaQR6BbC+/YGPtribzsLC92k7YS7pSmm7ExU1xaaCEhAUMqPHlzPs9476A1pPGLOFJ2MTa4Ck13oMbrW0KJm3Vaopa9uzUeSpqIqA8T888Z1P8AiVIbRVkaeAbBRClS/pkeUq+eeM5++dGjUhZuZ3wX2qYMbMoIr8l5mjrmnZIw+4iKgF0ZzhRxlQz3g6tP0VbKDvnr4r3lbDLnkZSrmgekHI7SPg6NGtFifmPETRD2jR10KTDi08CPEknLzDUZAbd/snGD/wB1rTsrb6ao1go64VqlczEEZHiKvkpxgnRo0ZNzDFeJaibeq4CGkxq2JHSyoqbDTCE8CeiU4HRI1We2bQSbByc9SVzs1w/vkrioU4v8kjJ0aNLJru4iilaqf//Z",
+    "left": 1778.484375,
+    "pageURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "parentURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "selectorName": "aSelector1",
+    "tagName": "A",
+    "text": "Dashboard",
+    "textTruncated": false,
+    "top": 57.984375,
+    "width": 64,
+    "xPath": "//*[@id=\"app-agent\"]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a"
+  },
+  {
+    "absoluteLeft": 1778.484375,
+    "absoluteTop": 57.984375,
+    "boundingRect": {
+      "bottom": 81.984375,
+      "height": 24,
+      "left": 1778.484375,
+      "right": 1842.3125,
+      "top": 57.984375,
+      "width": 63.828125,
+      "x": 1778.484375,
+      "y": 57.984375
+    },
+    "clientRects": {
+      "0": {
+        "bottom": 81.984375,
+        "height": 24,
+        "left": 1778.484375,
+        "right": 1842.3125,
+        "top": 57.984375,
+        "width": 63.828125,
+        "x": 1778.484375,
+        "y": 57.984375
+      }
+    },
+    "css": "#app-agent > div > div.content-wrapper > div.content-header > div > div > div:nth-of-type(2) > ol > li.breadcrumb-item > a",
+    "fullXPath": "/html/body/div[1]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a",
+    "height": 24,
+    "href": "https://helpdesk.sditx.com/panel/",
+    "imageData": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAYAD8DASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBAIDBQn/xAAqEAABBAEEAgEDBAMAAAAAAAABAgMEBREABhIhEzFRFGFxFSJBchYzgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAERIDIVHwBBMxQaHR/9oADAMBAAIRAxEAPwD05DiFKKQpJUOiAfWssH4OkvPqKhio3LcKjR2btu3WmJOQlKZHPknihKwORzk9a7Ezd9qjcde5GmS3Iap6IMltbEdMQKKf3BJ/3FYP8546v9AtWMiOvQJI++DUZcmUzCYW/IebYZQMqcdUEpT+SfWofmx4sYyX32mY4AJecWEowfRyetKbc9xbIgX8G4nSg9JZcVDbDbCoa0JUO0KQPJyA9hZ/Gtd7OtYtNeUsu0csG/0tiW048yhBZJWlJSOATlP9iT9zoGgSLuNtajVd2/Y4kkKSFJ7Sf5Gp0pbPdV5tuc9VJtzPS6xHWmdJYaH0ZcXxPSEpBTjsBQP3J1df3RY1UizpH7mXOfbeZaizI0eP9StTgJ8RBAa5DHspAA950Hx22IIgNdTdg9Fxm+/Xf41Xm2EWtZ80uS1Fazx5vLCBn4ydK6n3VuK5bqYBs3Yry7GTDekrYZU8pDaQR6BbC+/YGPtribzsLC92k7YS7pSmm7ExU1xaaCEhAUMqPHlzPs9476A1pPGLOFJ2MTa4Ck13oMbrW0KJm3Vaopa9uzUeSpqIqA8T888Z1P8AiVIbRVkaeAbBRClS/pkeUq+eeM5++dGjUhZuZ3wX2qYMbMoIr8l5mjrmnZIw+4iKgF0ZzhRxlQz3g6tP0VbKDvnr4r3lbDLnkZSrmgekHI7SPg6NGtFifmPETRD2jR10KTDi08CPEknLzDUZAbd/snGD/wB1rTsrb6ao1go64VqlczEEZHiKvkpxgnRo0ZNzDFeJaibeq4CGkxq2JHSyoqbDTCE8CeiU4HRI1We2bQSbByc9SVzs1w/vkrioU4v8kjJ0aNLJru4iilaqf//Z",
+    "left": 1778.484375,
+    "pageURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "parentURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "selectorName": "aSelector2",
+    "tagName": "A",
+    "text": "Dashboard",
+    "textTruncated": false,
+    "top": 57.984375,
+    "width": 64,
+    "xPath": "//*[@id=\"app-agent\"]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a"
+  },
+  {
+    "absoluteLeft": 1778.484375,
+    "absoluteTop": 57.984375,
+    "boundingRect": {
+      "bottom": 81.984375,
+      "height": 24,
+      "left": 1778.484375,
+      "right": 1842.3125,
+      "top": 57.984375,
+      "width": 63.828125,
+      "x": 1778.484375,
+      "y": 57.984375
+    },
+    "clientRects": {
+      "0": {
+        "bottom": 81.984375,
+        "height": 24,
+        "left": 1778.484375,
+        "right": 1842.3125,
+        "top": 57.984375,
+        "width": 63.828125,
+        "x": 1778.484375,
+        "y": 57.984375
+      }
+    },
+    "css": "#app-agent > div > div.content-wrapper > div.content-header > div > div > div:nth-of-type(2) > ol > li.breadcrumb-item > a",
+    "fullXPath": "/html/body/div[1]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a",
+    "height": 24,
+    "href": "https://helpdesk.sditx.com/panel/",
+    "imageData": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAYAD8DASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBAIDBQn/xAAqEAABBAEEAgEDBAMAAAAAAAABAgMEBREABhIhEzFRFGFxFSJBchYzgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAERIDIVHwBBMxQaHR/9oADAMBAAIRAxEAPwD05DiFKKQpJUOiAfWssH4OkvPqKhio3LcKjR2btu3WmJOQlKZHPknihKwORzk9a7Ezd9qjcde5GmS3Iap6IMltbEdMQKKf3BJ/3FYP8546v9AtWMiOvQJI++DUZcmUzCYW/IebYZQMqcdUEpT+SfWofmx4sYyX32mY4AJecWEowfRyetKbc9xbIgX8G4nSg9JZcVDbDbCoa0JUO0KQPJyA9hZ/Gtd7OtYtNeUsu0csG/0tiW048yhBZJWlJSOATlP9iT9zoGgSLuNtajVd2/Y4kkKSFJ7Sf5Gp0pbPdV5tuc9VJtzPS6xHWmdJYaH0ZcXxPSEpBTjsBQP3J1df3RY1UizpH7mXOfbeZaizI0eP9StTgJ8RBAa5DHspAA950Hx22IIgNdTdg9Fxm+/Xf41Xm2EWtZ80uS1Fazx5vLCBn4ydK6n3VuK5bqYBs3Yry7GTDekrYZU8pDaQR6BbC+/YGPtribzsLC92k7YS7pSmm7ExU1xaaCEhAUMqPHlzPs9476A1pPGLOFJ2MTa4Ck13oMbrW0KJm3Vaopa9uzUeSpqIqA8T888Z1P8AiVIbRVkaeAbBRClS/pkeUq+eeM5++dGjUhZuZ3wX2qYMbMoIr8l5mjrmnZIw+4iKgF0ZzhRxlQz3g6tP0VbKDvnr4r3lbDLnkZSrmgekHI7SPg6NGtFifmPETRD2jR10KTDi08CPEknLzDUZAbd/snGD/wB1rTsrb6ao1go64VqlczEEZHiKvkpxgnRo0ZNzDFeJaibeq4CGkxq2JHSyoqbDTCE8CeiU4HRI1We2bQSbByc9SVzs1w/vkrioU4v8kjJ0aNLJru4iilaqf//Z",
+    "left": 1778.484375,
+    "pageURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "parentURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "selectorName": "aSelector3",
+    "tagName": "A",
+    "text": "Dashboard",
+    "textTruncated": false,
+    "top": 57.984375,
+    "width": 64,
+    "xPath": "//*[@id=\"app-agent\"]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a"
+  },
+  {
+    "absoluteLeft": 1778.484375,
+    "absoluteTop": 57.984375,
+    "boundingRect": {
+      "bottom": 81.984375,
+      "height": 24,
+      "left": 1778.484375,
+      "right": 1842.3125,
+      "top": 57.984375,
+      "width": 63.828125,
+      "x": 1778.484375,
+      "y": 57.984375
+    },
+    "clientRects": {
+      "0": {
+        "bottom": 81.984375,
+        "height": 24,
+        "left": 1778.484375,
+        "right": 1842.3125,
+        "top": 57.984375,
+        "width": 63.828125,
+        "x": 1778.484375,
+        "y": 57.984375
+      }
+    },
+    "css": "#app-agent > div > div.content-wrapper > div.content-header > div > div > div:nth-of-type(2) > ol > li.breadcrumb-item > a",
+    "fullXPath": "/html/body/div[1]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a",
+    "height": 24,
+    "href": "https://helpdesk.sditx.com/panel/",
+    "imageData": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAYAD8DASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBAIDBQn/xAAqEAABBAEEAgEDBAMAAAAAAAABAgMEBREABhIhEzFRFGFxFSJBchYzgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAERIDIVHwBBMxQaHR/9oADAMBAAIRAxEAPwD05DiFKKQpJUOiAfWssH4OkvPqKhio3LcKjR2btu3WmJOQlKZHPknihKwORzk9a7Ezd9qjcde5GmS3Iap6IMltbEdMQKKf3BJ/3FYP8546v9AtWMiOvQJI++DUZcmUzCYW/IebYZQMqcdUEpT+SfWofmx4sYyX32mY4AJecWEowfRyetKbc9xbIgX8G4nSg9JZcVDbDbCoa0JUO0KQPJyA9hZ/Gtd7OtYtNeUsu0csG/0tiW048yhBZJWlJSOATlP9iT9zoGgSLuNtajVd2/Y4kkKSFJ7Sf5Gp0pbPdV5tuc9VJtzPS6xHWmdJYaH0ZcXxPSEpBTjsBQP3J1df3RY1UizpH7mXOfbeZaizI0eP9StTgJ8RBAa5DHspAA950Hx22IIgNdTdg9Fxm+/Xf41Xm2EWtZ80uS1Fazx5vLCBn4ydK6n3VuK5bqYBs3Yry7GTDekrYZU8pDaQR6BbC+/YGPtribzsLC92k7YS7pSmm7ExU1xaaCEhAUMqPHlzPs9476A1pPGLOFJ2MTa4Ck13oMbrW0KJm3Vaopa9uzUeSpqIqA8T888Z1P8AiVIbRVkaeAbBRClS/pkeUq+eeM5++dGjUhZuZ3wX2qYMbMoIr8l5mjrmnZIw+4iKgF0ZzhRxlQz3g6tP0VbKDvnr4r3lbDLnkZSrmgekHI7SPg6NGtFifmPETRD2jR10KTDi08CPEknLzDUZAbd/snGD/wB1rTsrb6ao1go64VqlczEEZHiKvkpxgnRo0ZNzDFeJaibeq4CGkxq2JHSyoqbDTCE8CeiU4HRI1We2bQSbByc9SVzs1w/vkrioU4v8kjJ0aNLJru4iilaqf//Z",
+    "left": 1778.484375,
+    "pageURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "parentURL": "https://helpdesk.sditx.com/panel/tickets?show%5B%5D=inbox&departments%5B%5D=All&filter-by-url=1&category=mytickets",
+    "selectorName": "aSelector4",
+    "tagName": "A",
+    "text": "Dashboard",
+    "textTruncated": false,
+    "top": 57.984375,
+    "width": 64,
+    "xPath": "//*[@id=\"app-agent\"]/div/div[1]/div[1]/div/div/div[2]/ol/li[2]/a"
+  }
+]

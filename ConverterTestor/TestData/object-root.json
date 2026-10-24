@@ -1,0 +1,11 @@
+{
+  "name": "an object at the top",
+  "id": "0001",
+  "count": 3,
+  "missing": null,
+  "tags": [ "first", "second" ],
+  "nested": {
+    "label": "inside",
+    "empty": null
+  }
+}

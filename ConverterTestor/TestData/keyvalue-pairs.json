@@ -1,0 +1,33 @@
+[
+  {
+    "Key": {
+      "ClientID": null,
+      "DataSourceID": null
+    },
+    "Value": {
+      "0000": {
+        "ClientID": "0001",
+        "EntityName": "FIRST ENTITY",
+        "EnrollmentState": "CO"
+      },
+      "0001": {
+        "ClientID": "0001",
+        "EntityName": "SECOND ENTITY",
+        "EnrollmentState": "CO"
+      }
+    }
+  },
+  {
+    "Key": {
+      "ClientID": "0002",
+      "DataSourceID": null
+    },
+    "Value": {
+      "0000": {
+        "ClientID": "0002",
+        "EntityName": "THIRD ENTITY",
+        "EnrollmentState": "TX"
+      }
+    }
+  }
+]
